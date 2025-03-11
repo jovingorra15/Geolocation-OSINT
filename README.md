@@ -16,6 +16,7 @@
     </tr>
 </table>
 <ul>
+  <li><a href="https://ip-api.com/">IP API</a></li>
  <li><a href="https://alltrails.com/">All Trails</a></li>
     <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
  <li><a href="https://beta.maps.apple.com/">Apple Maps</a></li>
